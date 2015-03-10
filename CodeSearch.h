@@ -1,4 +1,40 @@
-// Declare constants and static variables here.
+**************************
+** Block: myUtiliteis.lib \ CodeSearch
+**************************
+
+**************************
+** Developer:
+** myName
+** myContactInfo
+**************************
+
+**************************
+** Purpse: To search for code in an equation block
+**************************
+
+**************************
+** Version Info:
+** V1.0 RJC Initial Post
+** V2.0 RJC Pulled out source code to external source file
+**************************
+
+**************************
+** Global Variables:
+** Name / Documentation
+**************************
+
+**************************
+** User Messages:
+** Name / Documentation
+**************************
+
+**************************
+** ToDo;
+**************************
+
+**************************
+**	STATIC VARIABLE AND CONSTANTS
+**************************
 
 string gsDynText[];
 string gsBlockInfoArray[][6];
