@@ -1,5 +1,7 @@
 **************************
-** Block: myUtiliteis.lib \ CodeSearch
+** Block: CodeSearch
+** Lib: myUtiliteis.lib 
+** Lib: Version: 9.0.0
 **************************
 
 **************************
