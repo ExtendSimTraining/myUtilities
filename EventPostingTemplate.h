@@ -1,5 +1,38 @@
-//	This block is an Event Posting template block.  This contains all the code
-//	needed to make this block event posting.
+**************************
+** Block: myUtiliteis.lib \ EventPostingTemplate
+**************************
+
+**************************
+** Developer:
+** myName
+** myContactInfo
+**************************
+
+**************************
+** Purpse: 
+**	This block is an Event Posting template block.  This contains all the code
+**	needed to make this block event posting.
+**************************
+
+**************************
+** Version Info:
+** V1.0 RJC Initial Post
+** V2.0 RJC Pulled out source code to external source file
+**************************
+
+**************************
+** Global Variables:
+** Name / Documentation
+**************************
+
+**************************
+** User Messages:
+** Name / Documentation
+**************************
+
+**************************
+** ToDo;
+**************************
 
 **************************
 ** 	CONSTANTS AND STATIC VARIABLES
