@@ -1,5 +1,7 @@
 **************************
-** Block: myUtiliteis.lib \ Clock DayHour
+** Block: Clock DayHour
+** Lib: myUtiliteis.lib 
+** Lib: Version: 9.0.0
 **************************
 
 **************************
