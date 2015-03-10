@@ -1,5 +1,7 @@
 **************************
-** Block: myUtiliteis.lib \ DBDocumentation
+** Block: DBDocumentation
+** Lib: myUtiliteis.lib 
+** Lib: Version: 9.0.0
 **************************
 
 **************************
