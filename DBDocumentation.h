@@ -1,4 +1,40 @@
-// Declare constants and static variables here.
+**************************
+** Block: myUtiliteis.lib \ DBDocumentation
+**************************
+
+**************************
+** Developer:
+** myName
+** myContactInfo
+**************************
+
+**************************
+** Purpse: To pull out notes from tables & fields in a database
+**************************
+
+**************************
+** Version Info:
+** V1.0 RJC Initial Post
+** V2.0 RJC Pulled out source code to external source file
+**************************
+
+**************************
+** Global Variables:
+** Name / Documentation
+**************************
+
+**************************
+** User Messages:
+** Name / Documentation
+**************************
+
+**************************
+** ToDo;
+**************************
+
+**************************
+**	STATIC VARIABLE AND CONSTANTS
+**************************
 
 string63 DB_DatabaseName;	
 
