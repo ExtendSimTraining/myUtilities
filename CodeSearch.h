@@ -2,7 +2,6 @@
 ** Block: CodeSearch
 ** Lib: myUtiliteis.lib 
 ** Lib: Version: 9.0.0
-**HEy BeTh, WhaT'S UP?
 **************************
 
 **************************
