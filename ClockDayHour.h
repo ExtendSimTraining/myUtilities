@@ -9,7 +9,7 @@
 ** myName
 ** myContactInfo
 **************************
-
+//MEM practice changing 03/26/2015
 **************************
 ** Purpse: To animate the simulation time
 **************************
