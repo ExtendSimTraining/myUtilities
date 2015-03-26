@@ -43,6 +43,7 @@ integer	myIndex;
 real	timeArray[];			
 integer timeBlocks[];
 
+// just trying to make a change rjc
 
 **********************
 procedure UpdateTheClock()
